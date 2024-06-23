@@ -1,2 +1,2 @@
-Spring Fundamentals Exam'
+Spring Fundamentals Exam
 23.06.2024
